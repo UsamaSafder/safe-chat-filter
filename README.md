@@ -24,8 +24,8 @@ A lightweight, fully local web application that filters offensive or inappropria
 ## 📸 Screenshot
 
 ![App Screenshot](O3.PNG) 
-![App Screenshot](O1.png) 
-![App Screenshot](O2.png) 
+![App Screenshot](O1.PNG) 
+![App Screenshot](O2.PNG) 
 <!-- Replace with your actual image file name and path -->
 
 ## 🔧 How to Run Locally
