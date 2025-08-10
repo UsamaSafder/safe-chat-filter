@@ -2,7 +2,7 @@
 
 A lightweight, fully local web application that filters offensive or inappropriate words from user input in real-time. Built using **HTML**, **CSS**, and **JavaScript**, this project demonstrates front-end text moderation without relying on any external libraries or back-end services.
 
-🔗 Live Demo: Offensive Word Filter
+🔗 Live Demo:[ Offensive Word Filter](https://hmftj.com/interns/Chatfilter/file.html)
 📦 Source Code: GitHub Repository
 
 ## 🚀 Features
